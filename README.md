@@ -94,8 +94,3 @@ Roughly **1 out of every 3 dollars** this company could be earning each month di
 2. Open `Customer_Revenue_Leakage_Analysis.sql` in any SQL client (MySQL) and run it against the cleaned dataset to reproduce the revenue and churn breakdowns.
 3. Read `Analysis_Report.md` for the plain-English summary of everything found, plus recommendations.
 
----
-
-## 👤 About the Analyst
-
-This project was carried out with a data analyst's eye for numbers and patterns, combined with a people-first lens shaped by HR experience — because behind every churn number is a real customer decision, and the goal isn't just to report the leak, but to understand *why* people are walking away and what would make them stay.
