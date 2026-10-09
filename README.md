@@ -130,6 +130,7 @@ Five KPIs and two charts size the problem.
 | Churn rate by contract type | Is churn spread evenly across contracts? |
 
 What it shows: churners pay more than retained customers (about $74 against $61 a month), and they leave early (about 18 months of tenure against 38).
+![Executive Summary](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/5afaec7cf7a82123bd5454292d31bc15009519c8/Dashboard%20Screenshots/Executive%20Summary.png)
 
 ### Page 2: Leakage Drivers
 
