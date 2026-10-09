@@ -171,6 +171,8 @@ The Priority Segment has 1,307 customers, a 60.37% churn rate and about $68.3K i
 
 All 20 of the highest-paying churned customers were on fiber optic, paying $111 to $118 a month. Thirteen of the 20 were on one-year or two-year contracts, so a longer contract did not stop them leaving. High Spend customers account for $76.7K of the loss (55.1%). Of the top 20 customers by lifetime revenue, only one has churned.
 
+![High Value Customers](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/6db97b7306b94591021cfd501324af4bd2254a7c/Dashboard%20Screenshots/High-Value%20Customers.png)
+
 ### Page 5: Recommendations
 
 Five actions, each linked to a group, evidence from the data and the monthly revenue at stake. See the next section.
