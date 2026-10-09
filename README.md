@@ -36,7 +36,7 @@ I wanted to answer five questions, one per dashboard page:
 
 ## Data
 
-The source is the IBM Telco Customer Churn dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`).
+The source is the IBM Telco Customer Churn dataset ('Data Source')![`Data Source`](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/b00e2d61446874478766adbe768eb45e2b5aa3d6/WA_Fn-UseC_-Telco-Customer-Churn.csv).
 
 - 7,043 customers and 21 columns
 - No duplicates and no missing values on first inspection
