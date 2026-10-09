@@ -130,6 +130,7 @@ Five KPIs and two charts size the problem.
 | Churn rate by contract type | Is churn spread evenly across contracts? |
 
 What it shows: churners pay more than retained customers (about $74 against $61 a month), and they leave early (about 18 months of tenure against 38).
+
 ![Executive Summary](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/5afaec7cf7a82123bd5454292d31bc15009519c8/Dashboard%20Screenshots/Executive%20Summary.png)
 
 ### Page 2: Leakage Drivers
@@ -142,6 +143,8 @@ Four bar charts, each with churn rate, monthly revenue lost and share of total l
 | Lost revenue by internet service | Which service line loses the most? | Fiber is 82.2% of the loss and churns at 41.9% (DSL: 19.0%) |
 | Lost revenue by payment method | Does how people pay relate to leaving? | Electronic check churns at 45.3%, against 15 to 19% elsewhere |
 | Lost revenue by tenure | How early do we lose revenue? | First-year customers are 49.6% of the loss and churn at 47.4% |
+
+![Leakage Drivers](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/4d47384c7ddad08167bb468dbf52c109c289598a/Dashboard%20Screenshots/Leakage%20Drivers.png)
 
 ### Page 3: Segment Deep Dive
 
