@@ -159,6 +159,8 @@ Four bar charts, each with churn rate, monthly revenue lost and share of total l
 
 The Priority Segment has 1,307 customers, a 60.37% churn rate and about $68.3K in monthly lost revenue, which is 49.1% of the total. That is about 19% of customers producing half the leak.
 
+![Segment Deep Dive](https://github.com/SamuelS2003/Consumer-Revenue-Leakage-Analysis/blob/6e77e2367d5c4dbbdff64eaa3478b6d340133da1/Dashboard%20Screenshots/Segment%20Deep%20Dive.png)
+
 ### Page 4: High-Value Customers
 
 | Visual | Question it answers |
